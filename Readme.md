@@ -10,6 +10,9 @@
 * [Default3.aspx.cs](./CS/Default3.aspx.cs) (VB: [Default3.aspx.vb](./VB/Default3.aspx.vb))
 <!-- default file list end -->
 # An example of using the extended Batch Editing API 
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/t381535/)**
+<!-- run online end -->
 
 
 <p>This example illustrates how to use the new Batch Edit API implemented in the context of the <a href="https://www.devexpress.com/Support/Center/p/T346067">ASPxGridView, ASPxCardView - Extend the batch edit API functionality</a> thread. The following scenarios are demonstrated
